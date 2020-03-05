@@ -16,10 +16,10 @@ node liri.js spotify-this-song + `(enter song name of your choice)`
 
 This will search the Spotify API and return data related to the desired song. An example is below: 
 
-[Example1_gif] (https://i.imgur.com/WIGRH8b.gif)
+![Example1_gif](https://i.imgur.com/WIGRH8b.gif)
 
 Here is a demo of how it works:  
-[Example1_demo] (https://drive.google.com/file/d/1OjvGDueGsxDxgOWHPrqvMEeV0uCe6nt8/view)
+![Example1_demo](https://drive.google.com/file/d/1OjvGDueGsxDxgOWHPrqvMEeV0uCe6nt8/view)
 
 
 
