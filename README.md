@@ -19,7 +19,7 @@ This will search the Spotify API and return data related to the desired song. An
 ![Example1_gif](https://i.imgur.com/WIGRH8b.gif)
 
 Here is a demo of how it works:  
-![Example1_demo](https://drive.google.com/file/d/1OjvGDueGsxDxgOWHPrqvMEeV0uCe6nt8/view)
+![Example2_gif](https://drive.google.com/file/d/1OjvGDueGsxDxgOWHPrqvMEeV0uCe6nt8/view)
 
 
 
